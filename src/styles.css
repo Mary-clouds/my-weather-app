@@ -1,0 +1,60 @@
+h1 {
+  text-align: left;
+  position: fixed;
+  top: 25px;
+  left: 150px;
+  font-weight: 900;
+  width: 150px;
+}
+
+form {
+  padding: 60px;
+}
+p {
+  text-align: left;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-weight: 25px;
+}
+h4 {
+  font-weight: 25px;
+}
+
+button {
+  font-size: small;
+  margin: 10px;
+}
+.table {
+  padding: 10px;
+  margin: 20px;
+  text-align: center;
+  border: 3px solid #006fa9;
+}
+.container {
+  border-radius: 10px;
+  border-style: outset;
+  border-color: antiquewhite;
+  text-align: center;
+
+  background-image: url("images/clouds.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.italic {
+  font-family: "Inspiration", cursive;
+}
+.city-h2 {
+  font-size: larger;
+  position: relative;
+  padding-top: 20px;
+  margin-left: 50px;
+}
+
+.cityname {
+  font-weight: 900;
+  width: 100px;
+  margin: 0 auto;
+}
+
+.coder-name {
+  color: #551a8b;
+}
